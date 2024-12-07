@@ -1,0 +1,25 @@
+#container{
+    height: 804px;
+    width: 804px;
+    background-color: white;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 2px;
+    margin: 0 auto;
+  
+}
+.row{
+    height: 100px;
+    width: 800px;
+   display: flex;
+}
+.black{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+}
+.white{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+}
